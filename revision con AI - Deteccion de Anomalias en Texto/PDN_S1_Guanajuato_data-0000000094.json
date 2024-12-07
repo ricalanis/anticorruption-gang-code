@@ -1,0 +1,3609 @@
+[
+  {
+    "id": "138817MASUAG81755",
+    "metadata": {
+      "actualizacion": "2021-06-10T10:00:00Z",
+      "institucion": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+      "tipo": "CONCLUSIÓN",
+      "declaracionCompleta": true,
+      "actualizacionConflictoInteres": false
+    },
+    "declaracion": {
+      "situacionPatrimonial": {
+        "datosGenerales": {
+          "nombre": "MARTHA",
+          "primerApellido": "SUAREZ",
+          "segundoApellido": "AGUIÑAGA",
+          "rfc": {},
+          "correoElectronico": {
+            "institucional": "msuareza@guanajuato.gob.mx"
+          },
+          "telefono": {},
+          "situacionPersonalEstadoCivil": {},
+          "regimenMatrimonial": {}
+        },
+        "domicilioDeclarante": {
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {}
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "institucionEducativa": {
+                "nombre": "Colegio de Dirección Empresarial y Negocios",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "CONTADURIA",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "2013-11-25"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "tipoOperacion": "AGREGAR",
+          "nivelOrdenGobierno": "ESTATAL",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "nombreEntePublico": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+          "areaAdscripcion": "DIRECCIÓN ADMINISTRATIVA",
+          "empleoCargoComision": "JEFE DE SEGUIMIENTO ADMINISTRATIVO",
+          "contratadoPorHonorarios": false,
+          "nivelEmpleoCargoComision": "10",
+          "funcionPrincipal": "Administración Financiera (Recaudación de Ingresos, Desembolso de Fondos, Presupuestos, Contabilidad)",
+          "fechaTomaPosesion": "2017-01-12",
+          "telefonoOficina": {
+            "telefono": "4726909800",
+            "extension": "1510"
+          },
+          "domicilioMexico": {
+            "calle": "EJIDO EL CAPULIN 76 Z-6 P-1/1",
+            "numeroExterior": "S/N",
+            "coloniaLocalidad": "CARRETERA LEON-SILAO",
+            "municipioAlcaldia": {
+              "clave": "037",
+              "valor": "SILAO DE LA VICTORIA"
+            },
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "GUANAJUATO"
+            },
+            "codigoPostal": "36297"
+          },
+          "domicilioExtranjero": {
+            "calle": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "ciudadLocalidad": "",
+            "estadoProvincia": "",
+            "pais": "",
+            "codigoPostal": ""
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": false,
+          "experiencia": []
+        },
+        "datosPareja": {
+          "ninguno": true,
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {},
+          "actividadLaboral": {},
+          "actividadLaboralSectorPublico": {
+            "salarioMensualNeto": {}
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "sector": {},
+            "salarioMensualNeto": {}
+          }
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true,
+          "dependienteEconomico": []
+        },
+        "ingresos": {
+          "remuneracionConclusionCargoPublico": {
+            "valor": 579093,
+            "moneda": "MXN"
+          },
+          "otrosIngresosConclusionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoConclusionNetoDeclarante": {
+            "valor": 579093,
+            "moneda": "MXN"
+          },
+          "ingresoConclusionNetoParejaDependiente": {},
+          "totalIngresosConclusionNetos": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": true,
+          "fechaIngreso": "2020-01-01",
+          "fechaConclusion": "2020-12-31",
+          "remuneracionNetaCargoPublico": {
+            "valor": 579093,
+            "moneda": "MXN"
+          },
+          "otrosIngresosTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoNetoAnualDeclarante": {
+            "valor": 579093,
+            "moneda": "MXN"
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "valor": 0
+          },
+          "totalIngresosNetosAnuales": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "bienesInmuebles": {
+          "ninguno": false,
+          "bienInmueble": [
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 100,
+              "superficieTerreno": {
+                "valor": 120,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 150,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "MORAL",
+                  "nombreRazonSocial": "INFONAVIT",
+                  "rfc": "INF7205011ZA",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Crédito"
+              },
+              "formaPago": "CRÉDITO",
+              "valorAdquisicion": {
+                "valor": 390000,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2009-05-18",
+              "valorConformeA": "ESCRITURA PÚBLICA",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            }
+          ]
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        },
+        "bienesMuebles": {
+          "ninguno": true,
+          "bienMueble": []
+        },
+        "inversiones": {
+          "ninguno": true,
+          "inversion": []
+        },
+        "adeudos": {
+          "ninguno": true,
+          "adeudo": []
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        }
+      },
+      "interes": {
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "apoyos": {
+          "ninguno": true,
+          "apoyo": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        },
+        "clientesPrincipales": {
+          "ninguno": true,
+          "cliente": []
+        },
+        "beneficiosPrivados": {
+          "ninguno": true,
+          "beneficio": []
+        },
+        "fideicomisos": {
+          "ninguno": true,
+          "fideicomiso": []
+        }
+      }
+    }
+  },
+  {
+    "id": "138824JACOGU811104",
+    "metadata": {
+      "actualizacion": "2021-08-13T10:00:00Z",
+      "institucion": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+      "tipo": "CONCLUSIÓN",
+      "declaracionCompleta": true,
+      "actualizacionConflictoInteres": false
+    },
+    "declaracion": {
+      "situacionPatrimonial": {
+        "datosGenerales": {
+          "nombre": "JANET",
+          "primerApellido": "CORNEJO",
+          "segundoApellido": "GUIA",
+          "rfc": {},
+          "correoElectronico": {
+            "institucional": ""
+          },
+          "telefono": {},
+          "situacionPersonalEstadoCivil": {},
+          "regimenMatrimonial": {}
+        },
+        "domicilioDeclarante": {
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {}
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "institucionEducativa": {
+                "nombre": "INSTITUTO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "ADMINISTRATIVA",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "2019-04-09"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "tipoOperacion": "AGREGAR",
+          "nivelOrdenGobierno": "ESTATAL",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "nombreEntePublico": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+          "areaAdscripcion": "SECRETARÍA GENERAL DE ACUERDOS DEL TJA",
+          "empleoCargoComision": "COORDINADOR DE ACTUARIOS",
+          "contratadoPorHonorarios": false,
+          "nivelEmpleoCargoComision": "10",
+          "funcionPrincipal": "Otro (especifique)",
+          "fechaTomaPosesion": "2016-07-16",
+          "telefonoOficina": {
+            "telefono": "4726909800",
+            "extension": "1700"
+          },
+          "domicilioMexico": {
+            "calle": "EJIDO EL CAPULIN PARCELA 76 Z-6P-1/1",
+            "numeroExterior": "S/N",
+            "numeroInterior": "XX",
+            "coloniaLocalidad": "SILAO",
+            "municipioAlcaldia": {
+              "clave": "037",
+              "valor": "SILAO DE LA VICTORIA"
+            },
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "GUANAJUATO"
+            },
+            "codigoPostal": "36297"
+          },
+          "domicilioExtranjero": {
+            "calle": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "ciudadLocalidad": "",
+            "estadoProvincia": "",
+            "pais": "",
+            "codigoPostal": ""
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": false,
+          "experiencia": []
+        },
+        "datosPareja": {
+          "ninguno": true,
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {},
+          "actividadLaboral": {},
+          "actividadLaboralSectorPublico": {
+            "salarioMensualNeto": {}
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "sector": {},
+            "salarioMensualNeto": {}
+          }
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true,
+          "dependienteEconomico": []
+        },
+        "ingresos": {
+          "remuneracionConclusionCargoPublico": {
+            "valor": 466094,
+            "moneda": "MXN"
+          },
+          "otrosIngresosConclusionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoConclusionNetoDeclarante": {
+            "valor": 466094,
+            "moneda": "MXN"
+          },
+          "ingresoConclusionNetoParejaDependiente": {},
+          "totalIngresosConclusionNetos": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": true,
+          "fechaIngreso": "1900-01-01",
+          "fechaConclusion": "1900-01-01",
+          "remuneracionNetaCargoPublico": {
+            "valor": 466094,
+            "moneda": "MXN"
+          },
+          "otrosIngresosTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": ""
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoNetoAnualDeclarante": {
+            "valor": 466094,
+            "moneda": "MXN"
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "valor": 0
+          },
+          "totalIngresosNetosAnuales": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "bienesInmuebles": {
+          "ninguno": false,
+          "bienInmueble": [
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 0,
+              "superficieTerreno": {
+                "valor": 154,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 154,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "MORAL",
+                  "nombreRazonSocial": "CONSTRUCCIONES ADR SADCV",
+                  "rfc": "XXX",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Crédito"
+              },
+              "formaPago": "CRÉDITO",
+              "valorAdquisicion": {
+                "valor": 859336,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2019-04-11",
+              "valorConformeA": "ESCRITURA PÚBLICA",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            },
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "TERR",
+                "valor": "TERRENO"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 0,
+              "superficieTerreno": {
+                "valor": 134,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 0,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "MORAL",
+                  "nombreRazonSocial": "Residencial Minas de Plata",
+                  "rfc": "XXXX",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Crédito"
+              },
+              "formaPago": "CRÉDITO",
+              "valorAdquisicion": {
+                "valor": 318819,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2018-06-15",
+              "valorConformeA": "CONTRATO",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            }
+          ]
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        },
+        "bienesMuebles": {
+          "ninguno": true,
+          "bienMueble": []
+        },
+        "inversiones": {
+          "ninguno": true,
+          "inversion": []
+        },
+        "adeudos": {
+          "ninguno": true,
+          "adeudo": []
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        }
+      },
+      "interes": {
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "apoyos": {
+          "ninguno": true,
+          "apoyo": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        },
+        "clientesPrincipales": {
+          "ninguno": true,
+          "cliente": []
+        },
+        "beneficiosPrivados": {
+          "ninguno": true,
+          "beneficio": []
+        },
+        "fideicomisos": {
+          "ninguno": true,
+          "fideicomiso": []
+        }
+      }
+    }
+  },
+  {
+    "id": "139085GEGUBA705164",
+    "metadata": {
+      "actualizacion": "2022-08-23T10:00:00Z",
+      "institucion": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+      "tipo": "CONCLUSIÓN",
+      "declaracionCompleta": true,
+      "actualizacionConflictoInteres": false
+    },
+    "declaracion": {
+      "situacionPatrimonial": {
+        "datosGenerales": {
+          "nombre": "GERARDO",
+          "primerApellido": "GUERRERO",
+          "segundoApellido": "BANDA",
+          "rfc": {},
+          "correoElectronico": {
+            "institucional": "gguerrerob@guanajuato.gob.mx"
+          },
+          "telefono": {},
+          "situacionPersonalEstadoCivil": {},
+          "regimenMatrimonial": {}
+        },
+        "domicilioDeclarante": {
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {}
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE GUANAJUATO",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "LICENCIADO EN DERECHO",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "2001-09-10"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "tipoOperacion": "AGREGAR",
+          "nivelOrdenGobierno": "ESTATAL",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "nombreEntePublico": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+          "areaAdscripcion": "UNIDAD DE DEFENSORÍA DE OFICIO",
+          "empleoCargoComision": "DEFENSOR DE OFICIO REGION IV",
+          "contratadoPorHonorarios": false,
+          "nivelEmpleoCargoComision": "11",
+          "funcionPrincipal": "Atención directa al público",
+          "fechaTomaPosesion": "2011-05-01",
+          "telefonoOficina": {
+            "telefono": "461 616 0644 / 800 670 6324",
+            "extension": ""
+          },
+          "domicilioMexico": {
+            "calle": "Blvd Adolfo López Mateos",
+            "numeroExterior": "326 oriente",
+            "coloniaLocalidad": "zona centro",
+            "municipioAlcaldia": {
+              "clave": "007",
+              "valor": "CELAYA"
+            },
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "GUANAJUATO"
+            },
+            "codigoPostal": "38000"
+          },
+          "domicilioExtranjero": {
+            "calle": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "ciudadLocalidad": "",
+            "estadoProvincia": "",
+            "pais": "",
+            "codigoPostal": ""
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": false,
+          "experiencia": []
+        },
+        "datosPareja": {
+          "ninguno": true,
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {},
+          "actividadLaboral": {},
+          "actividadLaboralSectorPublico": {
+            "salarioMensualNeto": {}
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "sector": {},
+            "salarioMensualNeto": {}
+          }
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true,
+          "dependienteEconomico": []
+        },
+        "ingresos": {
+          "remuneracionConclusionCargoPublico": {
+            "valor": 783607,
+            "moneda": "MXN"
+          },
+          "otrosIngresosConclusionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoConclusionNetoDeclarante": {
+            "valor": 783607,
+            "moneda": "MXN"
+          },
+          "ingresoConclusionNetoParejaDependiente": {},
+          "totalIngresosConclusionNetos": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": true,
+          "fechaIngreso": "2020-01-01",
+          "fechaConclusion": "2020-12-31",
+          "remuneracionNetaCargoPublico": {
+            "valor": 783607,
+            "moneda": "MXN"
+          },
+          "otrosIngresosTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": ""
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoNetoAnualDeclarante": {
+            "valor": 783607,
+            "moneda": "MXN"
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "valor": 0
+          },
+          "totalIngresosNetosAnuales": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "bienesInmuebles": {
+          "ninguno": false,
+          "bienInmueble": [
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "OTRO",
+                "valor": "OTRO"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 100,
+              "superficieTerreno": {
+                "valor": 30000,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 0,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Contado"
+              },
+              "formaPago": "CONTADO",
+              "valorAdquisicion": {
+                "valor": 154000,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2004-06-17",
+              "valorConformeA": "ESCRITURA PÚBLICA",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            },
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 100,
+              "superficieTerreno": {
+                "valor": 68,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 59,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Crédito"
+              },
+              "formaPago": "CRÉDITO",
+              "valorAdquisicion": {
+                "valor": 586400,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2004-09-01",
+              "valorConformeA": "CONTRATO",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            }
+          ]
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        },
+        "bienesMuebles": {
+          "ninguno": true,
+          "bienMueble": []
+        },
+        "inversiones": {
+          "ninguno": true,
+          "inversion": []
+        },
+        "adeudos": {
+          "ninguno": true,
+          "adeudo": []
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        }
+      },
+      "interes": {
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "apoyos": {
+          "ninguno": true,
+          "apoyo": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        },
+        "clientesPrincipales": {
+          "ninguno": true,
+          "cliente": []
+        },
+        "beneficiosPrivados": {
+          "ninguno": true,
+          "beneficio": []
+        },
+        "fideicomisos": {
+          "ninguno": true,
+          "fideicomiso": []
+        }
+      }
+    }
+  },
+  {
+    "id": "139089RIRAMO953021",
+    "metadata": {
+      "actualizacion": "2022-10-04T10:00:00Z",
+      "institucion": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+      "tipo": "CONCLUSIÓN",
+      "declaracionCompleta": true,
+      "actualizacionConflictoInteres": false
+    },
+    "declaracion": {
+      "situacionPatrimonial": {
+        "datosGenerales": {
+          "nombre": "RICARDO",
+          "primerApellido": "RAMIREZ",
+          "segundoApellido": "MONJARAZ",
+          "rfc": {},
+          "correoElectronico": {
+            "institucional": ""
+          },
+          "telefono": {},
+          "situacionPersonalEstadoCivil": {},
+          "regimenMatrimonial": {}
+        },
+        "domicilioDeclarante": {
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {}
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "MAE",
+                "valor": "MAESTRÍA"
+              },
+              "institucionEducativa": {
+                "nombre": "INSTITUTO DE LA JUSTICIA ADMINISTRATIVA",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "ESPECIALIDAD EN JUSTICIA ADMINISTRATIVA",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "CERTIFICADO",
+              "fechaObtencion": "2022-05-27"
+            },
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "institucionEducativa": {
+                "nombre": "UNIVERSIDAD DE GUANAJUATO",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "LICENCIATURA EN DERECHO",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "2019-02-15"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "tipoOperacion": "AGREGAR",
+          "nivelOrdenGobierno": "ESTATAL",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "nombreEntePublico": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+          "areaAdscripcion": "SALA ESPECIALIZADA",
+          "empleoCargoComision": "SECRETARIO/A PROYECTISTA Y DE ACUERDOS",
+          "contratadoPorHonorarios": false,
+          "nivelEmpleoCargoComision": "10",
+          "funcionPrincipal": "Otro (especifique)",
+          "fechaTomaPosesion": "2020-09-17",
+          "telefonoOficina": {
+            "telefono": "4726909800",
+            "extension": ""
+          },
+          "domicilioMexico": {
+            "calle": "Parcela 76 Z-6 P-1/1",
+            "numeroExterior": "S/N",
+            "coloniaLocalidad": "EJIDO EL CAPULIN",
+            "municipioAlcaldia": {
+              "clave": "037",
+              "valor": "SILAO DE LA VICTORIA"
+            },
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "GUANAJUATO"
+            },
+            "codigoPostal": "36297"
+          },
+          "domicilioExtranjero": {
+            "calle": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "ciudadLocalidad": "",
+            "estadoProvincia": "",
+            "pais": "",
+            "codigoPostal": ""
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": false,
+          "experiencia": []
+        },
+        "datosPareja": {
+          "ninguno": true,
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {},
+          "actividadLaboral": {},
+          "actividadLaboralSectorPublico": {
+            "salarioMensualNeto": {}
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "sector": {},
+            "salarioMensualNeto": {}
+          }
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true,
+          "dependienteEconomico": []
+        },
+        "ingresos": {
+          "remuneracionConclusionCargoPublico": {
+            "valor": 471174,
+            "moneda": "MXN"
+          },
+          "otrosIngresosConclusionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoConclusionNetoDeclarante": {
+            "valor": 471174,
+            "moneda": "MXN"
+          },
+          "ingresoConclusionNetoParejaDependiente": {},
+          "totalIngresosConclusionNetos": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": false,
+          "fechaIngreso": "1900-01-01",
+          "fechaConclusion": "1900-01-01",
+          "remuneracionNetaCargoPublico": {
+            "valor": 471174,
+            "moneda": "MXN"
+          },
+          "otrosIngresosTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoNetoAnualDeclarante": {
+            "valor": 471174,
+            "moneda": "MXN"
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "valor": 0
+          },
+          "totalIngresosNetosAnuales": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "bienesInmuebles": {
+          "ninguno": false,
+          "bienInmueble": [
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 100,
+              "superficieTerreno": {
+                "valor": 78,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 85,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "MORAL",
+                  "nombreRazonSocial": "LUXUS HAUS, S.A. DE C.V.",
+                  "rfc": "LHA160428QZ2",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Crédito"
+              },
+              "formaPago": "CRÉDITO",
+              "valorAdquisicion": {
+                "valor": 1010000,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2020-01-30",
+              "valorConformeA": "ESCRITURA PÚBLICA",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            }
+          ]
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        },
+        "bienesMuebles": {
+          "ninguno": true,
+          "bienMueble": []
+        },
+        "inversiones": {
+          "ninguno": true,
+          "inversion": []
+        },
+        "adeudos": {
+          "ninguno": true,
+          "adeudo": []
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        }
+      },
+      "interes": {
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "apoyos": {
+          "ninguno": true,
+          "apoyo": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        },
+        "clientesPrincipales": {
+          "ninguno": true,
+          "cliente": []
+        },
+        "beneficiosPrivados": {
+          "ninguno": true,
+          "beneficio": []
+        },
+        "fideicomisos": {
+          "ninguno": true,
+          "fideicomiso": []
+        }
+      }
+    }
+  },
+  {
+    "id": "139096JURADU883030",
+    "metadata": {
+      "actualizacion": "2022-11-29T11:00:00Z",
+      "institucion": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+      "tipo": "CONCLUSIÓN",
+      "declaracionCompleta": true,
+      "actualizacionConflictoInteres": false
+    },
+    "declaracion": {
+      "situacionPatrimonial": {
+        "datosGenerales": {
+          "nombre": "JUAN MARTIN",
+          "primerApellido": "RAMIREZ",
+          "segundoApellido": "DURAN",
+          "rfc": {},
+          "correoElectronico": {
+            "institucional": ""
+          },
+          "telefono": {},
+          "situacionPersonalEstadoCivil": {},
+          "regimenMatrimonial": {}
+        },
+        "domicilioDeclarante": {
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {}
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "institucionEducativa": {
+                "nombre": "Universidad de Guanajuato",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "Licenciatura en derecho",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "2013-07-19"
+            },
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "MAE",
+                "valor": "MAESTRÍA"
+              },
+              "institucionEducativa": {
+                "nombre": "Universidad de Guanajuato",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "Derecho Constitucional",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "2018-02-13"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "tipoOperacion": "AGREGAR",
+          "nivelOrdenGobierno": "ESTATAL",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "nombreEntePublico": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+          "areaAdscripcion": "SALA ESPECIALIZADA",
+          "empleoCargoComision": "PROYECTISTA B",
+          "contratadoPorHonorarios": false,
+          "nivelEmpleoCargoComision": "10",
+          "funcionPrincipal": "Procuración de justicia (sentencias, ministerios públicos, fiscales, policías de investigación, auxiliares ministeriales, etc.)",
+          "fechaTomaPosesion": "2019-09-16",
+          "telefonoOficina": {
+            "telefono": "4726909800",
+            "extension": ""
+          },
+          "domicilioMexico": {
+            "calle": "Parcela 76-2-6-P-1/15/N el Capulin",
+            "numeroExterior": "S/N",
+            "coloniaLocalidad": "Parcela 76-2-6-P-1/15/N el Capulin",
+            "municipioAlcaldia": {
+              "clave": "037",
+              "valor": "SILAO DE LA VICTORIA"
+            },
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "GUANAJUATO"
+            },
+            "codigoPostal": "36297"
+          },
+          "domicilioExtranjero": {
+            "calle": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "ciudadLocalidad": "",
+            "estadoProvincia": "",
+            "pais": "",
+            "codigoPostal": ""
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": false,
+          "experiencia": []
+        },
+        "datosPareja": {
+          "ninguno": true,
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {},
+          "actividadLaboral": {},
+          "actividadLaboralSectorPublico": {
+            "salarioMensualNeto": {}
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "sector": {},
+            "salarioMensualNeto": {}
+          }
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true,
+          "dependienteEconomico": []
+        },
+        "ingresos": {
+          "remuneracionConclusionCargoPublico": {
+            "valor": 315806,
+            "moneda": "MXN"
+          },
+          "otrosIngresosConclusionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoConclusionNetoDeclarante": {
+            "valor": 315806,
+            "moneda": "MXN"
+          },
+          "ingresoConclusionNetoParejaDependiente": {},
+          "totalIngresosConclusionNetos": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": true,
+          "fechaIngreso": "2020-01-01",
+          "fechaConclusion": "2020-12-31",
+          "remuneracionNetaCargoPublico": {
+            "valor": 315806,
+            "moneda": "MXN"
+          },
+          "otrosIngresosTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": ""
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoNetoAnualDeclarante": {
+            "valor": 315806,
+            "moneda": "MXN"
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "valor": 0
+          },
+          "totalIngresosNetosAnuales": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "bienesInmuebles": {
+          "ninguno": true,
+          "bienInmueble": []
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        },
+        "bienesMuebles": {
+          "ninguno": true,
+          "bienMueble": []
+        },
+        "inversiones": {
+          "ninguno": true,
+          "inversion": []
+        },
+        "adeudos": {
+          "ninguno": true,
+          "adeudo": []
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        }
+      },
+      "interes": {
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "apoyos": {
+          "ninguno": true,
+          "apoyo": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        },
+        "clientesPrincipales": {
+          "ninguno": true,
+          "cliente": []
+        },
+        "beneficiosPrivados": {
+          "ninguno": true,
+          "beneficio": []
+        },
+        "fideicomisos": {
+          "ninguno": true,
+          "fideicomiso": []
+        }
+      }
+    }
+  },
+  {
+    "id": "139349ALRICU774044",
+    "metadata": {
+      "actualizacion": "2023-06-07T10:00:00Z",
+      "institucion": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+      "tipo": "CONCLUSIÓN",
+      "declaracionCompleta": true,
+      "actualizacionConflictoInteres": false
+    },
+    "declaracion": {
+      "situacionPatrimonial": {
+        "datosGenerales": {
+          "nombre": "ALEJANDRO",
+          "primerApellido": "RIVERA",
+          "segundoApellido": "CUELLAR",
+          "rfc": {},
+          "correoElectronico": {
+            "institucional": ""
+          },
+          "telefono": {},
+          "situacionPersonalEstadoCivil": {},
+          "regimenMatrimonial": {}
+        },
+        "domicilioDeclarante": {
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {}
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "MAE",
+                "valor": "MAESTRÍA"
+              },
+              "institucionEducativa": {
+                "nombre": "Universidad de Guanajuato / Fundación Civitas; UIM",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "Derecho Fiscal / Gestión y Administración Pública Local",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "2014-08-14"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "tipoOperacion": "AGREGAR",
+          "nivelOrdenGobierno": "ESTATAL",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "nombreEntePublico": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+          "areaAdscripcion": "SALA ESPECIALIZADA",
+          "empleoCargoComision": "SECRETARIO DE ESTUDIO Y CUENTA",
+          "contratadoPorHonorarios": false,
+          "nivelEmpleoCargoComision": "13",
+          "funcionPrincipal": "Áreas técnicas",
+          "fechaTomaPosesion": "2018-05-16",
+          "telefonoOficina": {
+            "telefono": "4726909800",
+            "extension": ""
+          },
+          "domicilioMexico": {
+            "calle": "Ejido del Capulín",
+            "numeroExterior": "76 Z-6",
+            "numeroInterior": "no aplica",
+            "coloniaLocalidad": "Capulín",
+            "municipioAlcaldia": {
+              "clave": "037",
+              "valor": "SILAO DE LA VICTORIA"
+            },
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "GUANAJUATO"
+            },
+            "codigoPostal": "36297"
+          },
+          "domicilioExtranjero": {
+            "calle": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "ciudadLocalidad": "",
+            "estadoProvincia": "",
+            "pais": "",
+            "codigoPostal": ""
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": false,
+          "experiencia": []
+        },
+        "datosPareja": {
+          "ninguno": true,
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {},
+          "actividadLaboral": {},
+          "actividadLaboralSectorPublico": {
+            "salarioMensualNeto": {}
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "sector": {},
+            "salarioMensualNeto": {}
+          }
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true,
+          "dependienteEconomico": []
+        },
+        "ingresos": {
+          "remuneracionConclusionCargoPublico": {
+            "valor": 600000,
+            "moneda": "MXN"
+          },
+          "otrosIngresosConclusionTotal": {
+            "valor": 562934,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 562934,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 562934,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoConclusionNetoDeclarante": {
+            "valor": 1162934,
+            "moneda": "MXN"
+          },
+          "ingresoConclusionNetoParejaDependiente": {},
+          "totalIngresosConclusionNetos": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": true,
+          "fechaIngreso": "1900-01-01",
+          "fechaConclusion": "1900-01-01",
+          "remuneracionNetaCargoPublico": {
+            "valor": 600000,
+            "moneda": "MXN"
+          },
+          "otrosIngresosTotal": {
+            "valor": 562934,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 562934,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 562934,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": ""
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoNetoAnualDeclarante": {
+            "valor": 1162934,
+            "moneda": "MXN"
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "valor": 0
+          },
+          "totalIngresosNetosAnuales": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "bienesInmuebles": {
+          "ninguno": false,
+          "bienInmueble": [
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 100,
+              "superficieTerreno": {
+                "valor": 119,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 200,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Crédito"
+              },
+              "formaPago": "CRÉDITO",
+              "valorAdquisicion": {
+                "valor": 520000,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2012-12-11",
+              "valorConformeA": "ESCRITURA PÚBLICA",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            }
+          ]
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        },
+        "bienesMuebles": {
+          "ninguno": true,
+          "bienMueble": []
+        },
+        "inversiones": {
+          "ninguno": true,
+          "inversion": []
+        },
+        "adeudos": {
+          "ninguno": true,
+          "adeudo": []
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        }
+      },
+      "interes": {
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "apoyos": {
+          "ninguno": true,
+          "apoyo": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        },
+        "clientesPrincipales": {
+          "ninguno": true,
+          "cliente": []
+        },
+        "beneficiosPrivados": {
+          "ninguno": true,
+          "beneficio": []
+        },
+        "fideicomisos": {
+          "ninguno": true,
+          "fideicomiso": []
+        }
+      }
+    }
+  },
+  {
+    "id": "139373JUESES693500",
+    "metadata": {
+      "actualizacion": "2024-02-27T11:00:00Z",
+      "institucion": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+      "tipo": "CONCLUSIÓN",
+      "declaracionCompleta": true,
+      "actualizacionConflictoInteres": false
+    },
+    "declaracion": {
+      "situacionPatrimonial": {
+        "datosGenerales": {
+          "nombre": "JUAN MANUEL",
+          "primerApellido": "ESTRADA",
+          "segundoApellido": "ESCAMILLA",
+          "rfc": {},
+          "correoElectronico": {
+            "institucional": "jmestrada@guanajuato.gob.mx"
+          },
+          "telefono": {},
+          "situacionPersonalEstadoCivil": {},
+          "regimenMatrimonial": {}
+        },
+        "domicilioDeclarante": {
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {}
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "MAE",
+                "valor": "MAESTRÍA"
+              },
+              "institucionEducativa": {
+                "nombre": "Universidad Autónoma de la Laguna",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "Licenciatura en derecho",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "1994-10-20"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "tipoOperacion": "AGREGAR",
+          "nivelOrdenGobierno": "ESTATAL",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "nombreEntePublico": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+          "areaAdscripcion": "SEGUNDA SALA",
+          "empleoCargoComision": "SECRETARIO PROYECTISTA DE PLENO",
+          "contratadoPorHonorarios": false,
+          "nivelEmpleoCargoComision": "12",
+          "funcionPrincipal": "Otro (especifique)",
+          "fechaTomaPosesion": "2018-05-16",
+          "telefonoOficina": {
+            "telefono": "4726909800",
+            "extension": "1164"
+          },
+          "domicilioMexico": {
+            "calle": "Parcela 76-Z-6P-1/1",
+            "numeroExterior": "S/N",
+            "coloniaLocalidad": "Ejido El Capulín",
+            "municipioAlcaldia": {
+              "clave": "037",
+              "valor": "SILAO DE LA VICTORIA"
+            },
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "GUANAJUATO"
+            },
+            "codigoPostal": "36297"
+          },
+          "domicilioExtranjero": {
+            "calle": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "ciudadLocalidad": "",
+            "estadoProvincia": "",
+            "pais": "",
+            "codigoPostal": ""
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": false,
+          "experiencia": []
+        },
+        "datosPareja": {
+          "ninguno": true,
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {},
+          "actividadLaboral": {},
+          "actividadLaboralSectorPublico": {
+            "salarioMensualNeto": {}
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "sector": {},
+            "salarioMensualNeto": {}
+          }
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true,
+          "dependienteEconomico": []
+        },
+        "ingresos": {
+          "remuneracionConclusionCargoPublico": {
+            "valor": 428865,
+            "moneda": "MXN"
+          },
+          "otrosIngresosConclusionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoConclusionNetoDeclarante": {
+            "valor": 428865,
+            "moneda": "MXN"
+          },
+          "ingresoConclusionNetoParejaDependiente": {},
+          "totalIngresosConclusionNetos": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": true,
+          "fechaIngreso": "2020-01-01",
+          "fechaConclusion": "2020-12-31",
+          "remuneracionNetaCargoPublico": {
+            "valor": 428865,
+            "moneda": "MXN"
+          },
+          "otrosIngresosTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": ""
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoNetoAnualDeclarante": {
+            "valor": 428865,
+            "moneda": "MXN"
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "valor": 0
+          },
+          "totalIngresosNetosAnuales": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "bienesInmuebles": {
+          "ninguno": false,
+          "bienInmueble": [
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 100,
+              "superficieTerreno": {
+                "valor": 208,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 208,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Contado"
+              },
+              "formaPago": "NO APLICA",
+              "valorAdquisicion": {
+                "valor": 913568,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2010-02-02",
+              "valorConformeA": "ESCRITURA PÚBLICA",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            }
+          ]
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        },
+        "bienesMuebles": {
+          "ninguno": true,
+          "bienMueble": []
+        },
+        "inversiones": {
+          "ninguno": true,
+          "inversion": []
+        },
+        "adeudos": {
+          "ninguno": true,
+          "adeudo": []
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        }
+      },
+      "interes": {
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "apoyos": {
+          "ninguno": true,
+          "apoyo": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        },
+        "clientesPrincipales": {
+          "ninguno": true,
+          "cliente": []
+        },
+        "beneficiosPrivados": {
+          "ninguno": true,
+          "beneficio": []
+        },
+        "fideicomisos": {
+          "ninguno": true,
+          "fideicomiso": []
+        }
+      }
+    }
+  },
+  {
+    "id": "139594ALMOCH783113",
+    "metadata": {
+      "actualizacion": "2024-06-18T10:00:00Z",
+      "institucion": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+      "tipo": "CONCLUSIÓN",
+      "declaracionCompleta": true,
+      "actualizacionConflictoInteres": false
+    },
+    "declaracion": {
+      "situacionPatrimonial": {
+        "datosGenerales": {
+          "nombre": "ALMA REBECA",
+          "primerApellido": "MORIN",
+          "segundoApellido": "CHAIRE",
+          "rfc": {},
+          "correoElectronico": {
+            "institucional": ""
+          },
+          "telefono": {},
+          "situacionPersonalEstadoCivil": {},
+          "regimenMatrimonial": {}
+        },
+        "domicilioDeclarante": {
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {}
+        },
+        "datosCurricularesDeclarante": {
+          "escolaridad": [
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "MAE",
+                "valor": "MAESTRÍA"
+              },
+              "institucionEducativa": {
+                "nombre": "Universidad de Guanajuato",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "Especialidad en Notario Público",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "CONSTANCIA",
+              "fechaObtencion": "2003-12-05"
+            },
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "MAE",
+                "valor": "MAESTRÍA"
+              },
+              "institucionEducativa": {
+                "nombre": "Instituto de la Judicatura Administrativa Tribunal de lo Contencioso Administrativo, (hoy Tribunal de Justicia Administrativa).",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "Especialidad en Justicia Administrativa",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "CERTIFICADO",
+              "fechaObtencion": "2006-12-11"
+            },
+            {
+              "tipoOperacion": "AGREGAR",
+              "nivel": {
+                "clave": "LIC",
+                "valor": "LICENCIATURA"
+              },
+              "institucionEducativa": {
+                "nombre": "Universidad de Guanajuato",
+                "ubicacion": "MX"
+              },
+              "carreraAreaConocimiento": "Licenciado en Derecho",
+              "estatus": "FINALIZADO",
+              "documentoObtenido": "TITULO",
+              "fechaObtencion": "2001-09-10"
+            }
+          ]
+        },
+        "datosEmpleoCargoComision": {
+          "tipoOperacion": "AGREGAR",
+          "nivelOrdenGobierno": "ESTATAL",
+          "ambitoPublico": "ORGANO_AUTONOMO",
+          "nombreEntePublico": "Tribunal de Justicia Administrativa del Estado de Guanajuato",
+          "areaAdscripcion": "SALA ESPECIALIZADA",
+          "empleoCargoComision": "SECRETARIA DE ESTUDIO Y CUENTA",
+          "contratadoPorHonorarios": false,
+          "nivelEmpleoCargoComision": "14",
+          "funcionPrincipal": "Otro (especifique)",
+          "fechaTomaPosesion": "2018-05-16",
+          "telefonoOficina": {
+            "telefono": "4726909800",
+            "extension": ""
+          },
+          "domicilioMexico": {
+            "calle": "Parcela 76 Z-6 P-1/1",
+            "numeroExterior": "S/N",
+            "coloniaLocalidad": "El Capulín",
+            "municipioAlcaldia": {
+              "clave": "037",
+              "valor": "SILAO DE LA VICTORIA"
+            },
+            "entidadFederativa": {
+              "clave": "11",
+              "valor": "GUANAJUATO"
+            },
+            "codigoPostal": "36297"
+          },
+          "domicilioExtranjero": {
+            "calle": "",
+            "numeroExterior": "",
+            "numeroInterior": "",
+            "ciudadLocalidad": "",
+            "estadoProvincia": "",
+            "pais": "",
+            "codigoPostal": ""
+          }
+        },
+        "experienciaLaboral": {
+          "ninguno": false,
+          "experiencia": []
+        },
+        "datosPareja": {
+          "ninguno": true,
+          "domicilioMexico": {
+            "municipioAlcaldia": {},
+            "entidadFederativa": {}
+          },
+          "domicilioExtranjero": {},
+          "actividadLaboral": {},
+          "actividadLaboralSectorPublico": {
+            "salarioMensualNeto": {}
+          },
+          "actividadLaboralSectorPrivadoOtro": {
+            "sector": {},
+            "salarioMensualNeto": {}
+          }
+        },
+        "datosDependienteEconomico": {
+          "ninguno": true,
+          "dependienteEconomico": []
+        },
+        "ingresos": {
+          "remuneracionConclusionCargoPublico": {
+            "valor": 339576,
+            "moneda": "MXN"
+          },
+          "otrosIngresosConclusionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoConclusionNetoDeclarante": {
+            "valor": 339576,
+            "moneda": "MXN"
+          },
+          "ingresoConclusionNetoParejaDependiente": {},
+          "totalIngresosConclusionNetos": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "actividadAnualAnterior": {
+          "servidorPublicoAnioAnterior": true,
+          "fechaIngreso": "1900-01-01",
+          "fechaConclusion": "1900-01-01",
+          "remuneracionNetaCargoPublico": {
+            "valor": 339576,
+            "moneda": "MXN"
+          },
+          "otrosIngresosTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividadIndustrialComercialEmpresarial": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "nombreRazonSocial": "",
+                "tipoNegocio": ""
+              }
+            ]
+          },
+          "actividadFinanciera": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "actividades": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoInstrumento": {
+                  "clave": "CAP",
+                  "valor": ""
+                }
+              }
+            ]
+          },
+          "serviciosProfesionales": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "servicios": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoServicio": ""
+              }
+            ]
+          },
+          "enajenacionBienes": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "bienes": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoBienEnajenado": "MUEBLE"
+              }
+            ]
+          },
+          "otrosIngresos": {
+            "remuneracionTotal": {
+              "valor": 0,
+              "moneda": "MXN"
+            },
+            "ingresos": [
+              {
+                "remuneracion": {
+                  "valor": 0,
+                  "moneda": "MXN"
+                },
+                "tipoIngreso": ""
+              }
+            ]
+          },
+          "ingresoNetoAnualDeclarante": {
+            "valor": 339576,
+            "moneda": "MXN"
+          },
+          "ingresoNetoAnualParejaDependiente": {
+            "valor": 0
+          },
+          "totalIngresosNetosAnuales": {
+            "valor": 0,
+            "moneda": "MXN"
+          }
+        },
+        "bienesInmuebles": {
+          "ninguno": false,
+          "bienInmueble": [
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "CASA",
+                "valor": "CASA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 100,
+              "superficieTerreno": {
+                "valor": 407,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 407,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Contado"
+              },
+              "formaPago": "CONTADO",
+              "valorAdquisicion": {
+                "valor": 850000,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2001-08-30",
+              "valorConformeA": "CONTRATO",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            },
+            {
+              "tipoOperacion": "SIN_CAMBIOS",
+              "tipoInmueble": {
+                "clave": "BODG",
+                "valor": "BODEGA"
+              },
+              "titular": [
+                {
+                  "clave": "DEC",
+                  "valor": "DECLARANTE"
+                }
+              ],
+              "porcentajePropiedad": 100,
+              "superficieTerreno": {
+                "valor": 10000,
+                "unidad": "m2"
+              },
+              "superficieConstruccion": {
+                "valor": 4500,
+                "unidad": "m2"
+              },
+              "tercero": [
+                {
+                  "tipoPersona": "FISICA",
+                  "nombreRazonSocial": "",
+                  "rfc": ""
+                }
+              ],
+              "transmisor": [
+                {
+                  "tipoPersona": "FISICA",
+                  "relacion": {}
+                }
+              ],
+              "formaAdquisicion": {
+                "clave": "CPV",
+                "valor": "Contado"
+              },
+              "formaPago": "CONTADO",
+              "valorAdquisicion": {
+                "valor": 9235,
+                "moneda": "MXN"
+              },
+              "fechaAdquisicion": "2002-08-01",
+              "valorConformeA": "ESCRITURA PÚBLICA",
+              "domicilioMexico": {
+                "municipioAlcaldia": {},
+                "entidadFederativa": {}
+              },
+              "domicilioExtranjero": {
+                "calle": ""
+              },
+              "motivoBaja": {
+                "clave": "VNT",
+                "valor": ""
+              }
+            }
+          ]
+        },
+        "vehiculos": {
+          "ninguno": true,
+          "vehiculo": []
+        },
+        "bienesMuebles": {
+          "ninguno": true,
+          "bienMueble": []
+        },
+        "inversiones": {
+          "ninguno": true,
+          "inversion": []
+        },
+        "adeudos": {
+          "ninguno": true,
+          "adeudo": []
+        },
+        "prestamoOComodato": {
+          "ninguno": true,
+          "prestamo": []
+        }
+      },
+      "interes": {
+        "participacion": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "participacionTomaDecisiones": {
+          "ninguno": true,
+          "participacion": []
+        },
+        "apoyos": {
+          "ninguno": true,
+          "apoyo": []
+        },
+        "representacion": {
+          "ninguno": true,
+          "representacion": []
+        },
+        "clientesPrincipales": {
+          "ninguno": true,
+          "cliente": []
+        },
+        "beneficiosPrivados": {
+          "ninguno": true,
+          "beneficio": []
+        },
+        "fideicomisos": {
+          "ninguno": true,
+          "fideicomiso": []
+        }
+      }
+    }
+  }
+]
