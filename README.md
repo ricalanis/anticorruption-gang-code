@@ -98,3 +98,10 @@ This project is licensed under Creative Commons Zero (CC BY-NC).
 ## Acknowledgments
 
 Developed as part of Mexico's Anti-corruption Dataton 2024, organized by the Executive Secretariat of the National Anti-corruption System (SESNA).
+
+## Contributers
+
+* Rocio Rodriguez
+* Ricardo Alanis
+* Israel Mata
+
