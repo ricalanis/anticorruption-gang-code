@@ -1,7 +1,6 @@
 erDiagram
     PERSONA_MAESTRA {
         string persona_id PK "UUID"
-        string curp UK
         string rfc UK
         string nombre
         string primer_apellido
