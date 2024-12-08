@@ -42,6 +42,30 @@ The `Deteccion_Anomalias.ipynb` notebook provides:
   - Network analysis of relationships
 - Automated reporting of suspicious cases
 
+### 3. Risk Monitoring Dashboard
+
+The static_fraud_dashboard.html implements a standalone visualization tool that integrates data from both the transformation pipeline and anomaly detection systems.
+
+#### Core Features
+* Live monitoring of data quality metrics
+* Alert visualization for detected anomalies
+* Risk scoring and prioritization display
+* Temporal trend analysis and patterns
+
+####⠀Dashboard Components
+* Executive summary with key risk indicators
+* Interactive data quality trend charts
+* Anomaly distribution visualization
+* Priority-based alert system
+
+####⠀Implementation Details
+* Standalone HTML/JavaScript solution
+* Chart.js for visualizations
+* Tailwind CSS for responsive design
+* CDN-based resource loading
+
+⠀The dashboard serves as the visual integration point between data processing and anomaly detection, providing a unified view of anti-corruption monitoring efforts.
+
 ## Setup and Usage
 
 ### Prerequisites
