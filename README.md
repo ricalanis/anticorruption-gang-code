@@ -46,19 +46,19 @@ The `Deteccion_Anomalias.ipynb` notebook provides:
 
 The static_fraud_dashboard.html implements a standalone visualization tool that integrates data from both the transformation pipeline and anomaly detection systems.
 
-#### Core Features
+**Core Features**
 * Live monitoring of data quality metrics
 * Alert visualization for detected anomalies
 * Risk scoring and prioritization display
 * Temporal trend analysis and patterns
 
-####⠀Dashboard Components
+**Dashboard Components**
 * Executive summary with key risk indicators
 * Interactive data quality trend charts
 * Anomaly distribution visualization
 * Priority-based alert system
 
-####⠀Implementation Details
+**Implementation Details**
 * Standalone HTML/JavaScript solution
 * Chart.js for visualizations
 * Tailwind CSS for responsive design
