@@ -153,3 +153,7 @@ Developed as part of Mexico's Anti-corruption Dataton 2024, organized by the Exe
 * Ricardo Alanis
 * Israel Mata
 
+## More content on the project
+
+https://drive.google.com/drive/u/0/folders/13piLcuuGlpcgY00W9-oxaV4oVzLTKUI3
+
