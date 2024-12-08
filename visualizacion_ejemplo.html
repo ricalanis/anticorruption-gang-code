@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Anticorrupción</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <style>
+        .alert-high { border-left: 4px solid #EF4444; }
+        .alert-medium { border-left: 4px solid #F59E0B; }
+        .chart-container { height: 300px; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <div class="container mx-auto px-4 py-8">
+        <header class="mb-8">
+            <h1 class="text-3xl font-bold text-gray-900">Panel de Control Anticorrupción</h1>
+            <p class="text-gray-600">Sistema Integral de Detección y Monitoreo</p>
+        </header>
+
+        <!-- Métricas Principales -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div class="bg-white rounded-lg shadow p-6">
+                <div class="flex items-center">
+                    <div class="rounded-full bg-red-100 p-3 mr-4">
+                        <svg class="w-6 h-6 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <p class="text-2xl font-bold">24</p>
+                        <p class="text-sm text-gray-600">Alertas de Alto Riesgo</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-6">
+                <div class="flex items-center">
+                    <div class="rounded-full bg-blue-100 p-3 mr-4">
+                        <svg class="w-6 h-6 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <p class="text-2xl font-bold">94.5%</p>
+                        <p class="text-sm text-gray-600">Calidad de Datos</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-6">
+                <div class="flex items-center">
+                    <div class="rounded-full bg-purple-100 p-3 mr-4">
+                        <svg class="w-6 h-6 text-purple-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <p class="text-2xl font-bold">1,245</p>
+                        <p class="text-sm text-gray-600">Entidades Monitoreadas</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Gráficas -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            <div class="bg-white rounded-lg shadow p-6">
+                <h2 class="text-lg font-semibold mb-4">Tendencias de Calidad de Datos</h2>
+                <div class="chart-container">
+                    <canvas id="qualityTrends"></canvas>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-6">
+                <h2 class="text-lg font-semibold mb-4">Distribución de Anomalías</h2>
+                <div class="chart-container">
+                    <canvas id="anomaliesChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Alertas -->
+        <div class="space-y-4">
+            <h2 class="text-xl font-semibold mb-4">Alertas Prioritarias</h2>
+            
+            <div class="bg-white rounded-lg shadow p-4 alert-high">
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-red-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+                    </svg>
+                    <div class="flex-1">
+                        <div class="flex justify-between items-start">
+                            <h3 class="font-semibold">Variación Patrimonial Injustificada</h3>
+                            <span class="text-sm text-red-600 font-semibold">Riesgo: 92%</span>
+                        </div>
+                        <p class="text-gray-600 mt-1">Incremento del 300% en activos sin justificación de ingresos</p>
+                        <p class="text-sm text-gray-500 mt-1">Entidad: Juan Pérez</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-4 alert-high">
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-red-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+                    </svg>
+                    <div class="flex-1">
+                        <div class="flex justify-between items-start">
+                            <h3 class="font-semibold">Patrón de Colusión Detectado</h3>
+                            <span class="text-sm text-red-600 font-semibold">Riesgo: 89%</span>
+                        </div>
+                        <p class="text-gray-600 mt-1">Rotación sistemática de contratos entre 3 empresas relacionadas</p>
+                        <p class="text-sm text-gray-500 mt-1">Entidad: Constructora ABC</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-lg shadow p-4 alert-medium">
+                <div class="flex items-start">
+                    <svg class="w-6 h-6 text-yellow-500 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+                    </svg>
+                    <div class="flex-1">
+                        <div class="flex justify-between items-start">
+                            <h3 class="font-semibold">Conflicto de Interés Potencial</h3>
+                            <span class="text-sm text-yellow-600 font-semibold">Riesgo: 75%</span>
+                        </div>
+                        <p class="text-gray-600 mt-1">Vínculo familiar detectado entre funcionario y contratista</p>
+                        <p class="text-sm text-gray-500 mt-1">Entidad: María Rodríguez</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Datos para las gráficas
+        const qualityTrendsData = {
+            labels: ['Ene', 'Feb', 'Mar', 'Abr', 'May'],
+            datasets: [
+                {
+                    label: 'Completitud',
+                    data: [92, 93, 95, 94, 96],
+                    borderColor: 'rgb(99, 102, 241)',
+                    tension: 0.1
+                },
+                {
+                    label: 'Precisión',
+                    data: [89, 90, 92, 93, 94],
+                    borderColor: 'rgb(59, 130, 246)',
+                    tension: 0.1
+                },
+                {
+                    label: 'Consistencia',
+                    data: [85, 87, 88, 90, 92],
+                    borderColor: 'rgb(147, 51, 234)',
+                    tension: 0.1
+                }
+            ]
+        };
+
+        const anomaliesData = {
+            labels: ['Declaraciones', 'Contratos', 'Conflictos', 'Documentos'],
+            datasets: [{
+                label: 'Número de Anomalías',
+                data: [45, 32, 28, 15],
+                backgroundColor: [
+                    'rgba(99, 102, 241, 0.5)',
+                    'rgba(59, 130, 246, 0.5)',
+                    'rgba(147, 51, 234, 0.5)',
+                    'rgba(239, 68, 68, 0.5)'
+                ],
+                borderColor: [
+                    'rgb(99, 102, 241)',
+                    'rgb(59, 130, 246)',
+                    'rgb(147, 51, 234)',
+                    'rgb(239, 68, 68)'
+                ],
+                borderWidth: 1
+            }]
+        };
+
+        // Configuración de las gráficas
+        const qualityTrendsConfig = {
+            type: 'line',
+            data: qualityTrendsData,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100
+                    }
+                }
+            }
+        };
+
+        const anomaliesConfig = {
+            type: 'bar',
+            data: anomaliesData,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Inicializar las gráficas
+        window.addEventListener('load', function() {
+            const qualityTrends = new Chart(
+                document.getElementById('qualityTrends'),
+                qualityTrendsConfig
+            );
+
+            const anomaliesChart = new Chart(
+                document.getElementById('anomaliesChart'),
+                anomaliesConfig
+            );
+        });
+    </script>
+</body>
+</html>
