@@ -1,4 +1,4 @@
-# Anti-corruption Data Analysis Pipeline and Visualization
+# Anti-corruption Data Structure, Pipeline and Visualization
 
 This repository contains a data processing and analysis pipeline designed to detect potential corruption cases in public contracting processes using Mexico's National Digital Platform (PDN) data. The project includes both data transformation pipelines and anomaly detection algorithms.
 
