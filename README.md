@@ -14,6 +14,30 @@ The pipeline processes raw declaration data from various government systems and 
 
 ## Data Pipeline Components
 
+### 0. Data Governance Framework for the National Digital Platform
+
+This framework establishes a comprehensive data governance approach based on DAMA (Data Management Association) principles, specifically designed for Mexico's PDN anti-corruption platform.
+
+#### Core Components
+* **Master Data Management (MDM)**: Centralized entity registry and standardization
+* **Data Quality Framework**: Rules and metrics for data validation
+* **Integration Architecture**: Standards for cross-system data exchange
+* **Monitoring System**: Continuous quality assessment and alerting
+
+#### Key Features
+* Entity deduplication and standardization
+* Cross-system validation rules
+* Data quality metrics and monitoring
+* Anomaly detection capabilities
+
+#### Implementation Strategy
+* Source-level data validation
+* Standardized data collection processes
+* Entity relationship management
+* Privacy-preserving data integration
+
+The framework addresses current data quality challenges while respecting existing system architectures and legal constraints, providing a foundation for improved corruption detection capabilities.
+
 ### 1. Data Transformation Pipeline 
 
 The `Pipeline_Crudo_a_entidades_referenciales_v1.ipynb` notebook implements:
